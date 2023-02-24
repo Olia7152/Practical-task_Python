@@ -15,3 +15,4 @@ set_2 = [int(input('Введите целое число для второго �
 sett = list(set(set_1) & set(set_2))
 sett.sort()
 print(sett)
+
